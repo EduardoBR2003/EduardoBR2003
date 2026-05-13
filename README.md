@@ -17,19 +17,20 @@
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" /><br /><b>NestJS</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><br /><b>Node.js</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><br /><b>TypeScript</b></td>
-    <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br /><b>JavaScript</b></td>
   </tr>
   <tr>
+    <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br /><b>JavaScript</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br /><b>React</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /><br /><b>Vue.js</b></td>
-    <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><br /><b>Angular</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /><br /><b>Docker</b></td>
-    <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /><br /><b>Kubernetes</b></td>
   </tr>
   <tr>
+    <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /><br /><b>Kubernetes</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><br /><b>PostgreSQL</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><br /><b>MySQL</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><br /><b>MongoDB</b></td>
+  </tr>
+  <tr>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /><br /><b>Redis</b></td>
     <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br /><b>Python</b></td>
   </tr>
@@ -44,13 +45,7 @@
 <table align="center">
   <tr>
     <td>
-      <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoBR2003&theme=tokyonight" />
-    </td>
-    <td>
       <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoBR2003&theme=tokyonight" />
-    </td>
-    <td>
-      <img height="170em" src="https://streak-stats.demolab.com/?user=EduardoBR2003&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" />
     </td>
   </tr>
 </table>
