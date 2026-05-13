@@ -37,13 +37,17 @@
 
 <br />
 
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoBR2003&theme=tokyonight" />
+
+<br />
+
 <table align="center">
   <tr>
     <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduardoBR2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide=stars" />
+      <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoBR2003&theme=tokyonight" />
     </td>
     <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBR2003&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+      <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoBR2003&theme=tokyonight" />
     </td>
     <td>
       <img height="170em" src="https://streak-stats.demolab.com/?user=EduardoBR2003&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" />
